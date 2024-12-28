@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 子供用旅のしおり
+
+- 子供（幼稚園児）向けの旅のしおりを作成するためのテンプレート
+- Vercel v0.dev(https://v0.dev/) と ChatGPT を利用して作成
 
 ## Getting Started
 
